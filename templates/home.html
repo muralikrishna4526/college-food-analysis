@@ -1,0 +1,11 @@
+{% extends "base.html" %}
+{% block content %}
+<h1>Welcome to the College Food Choices Case Study</h1>
+
+<p>This project explores how college students' dietary habits, food preferences, and health behaviors impact their well-being and academic performance. Our interactive dashboards reveal insights into nutrition, exercise, and lifestyle trends.</p>
+
+<!-- Image for homepage -->
+<div style="text-align: center; margin-top: 30px;">
+  <img src="{{ url_for('static', filename='images/food.jpg') }}" alt="Healthy Food" style="max-width: 600px; width: 100%; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);" />
+</div>
+{% endblock %}
