@@ -1,0 +1,17 @@
+{% extends "base.html" %}
+{% block content %}
+<h1>Key Insights & Findings</h1>
+
+<ul style="font-size: 18px; line-height: 1.6;">
+  <li>💡 Students with higher GPA tend to report healthier eating habits, suggesting a link between nutrition and academic performance.</li>
+  <li>🥗 Seniors consume slightly fewer fruits and vegetables on average compared to freshmen, highlighting a potential decline in diet quality over time.</li>
+  <li>💰 Higher-income students show increased eating out frequency, which may correlate with higher calorie intake and more processed foods.</li>
+  <li>🏋️ Exercise frequency tends to drop after sophomore year, indicating the need for better promotion of physical activity among upperclassmen.</li>
+  <li>🌍 Comfort food choices and ethnic cuisine preferences vary widely by cultural background, suggesting that targeted meal options on campus could improve dietary satisfaction and health.</li>
+</ul>
+
+<p>These insights provide actionable information for designing better meal plans, health programs, and nutrition education initiatives on college campuses.</p>
+<div style="text-align: center; margin-top: 30px;">
+  <img src="{{ url_for('static', filename='images/insights.jpg') }}" alt="Healthy Food" style="max-width: 600px; width: 100%; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);" />
+</div>
+{% endblock %}
