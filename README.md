@@ -1,4 +1,4 @@
-# 🍽️ College Food Choices Case Study
+# 🍽️ Comprehensive Analysis and Dietary Strategies with Tableau: A College Food Choices Case Study
 
 This project analyzes the dietary habits, nutrition patterns, and lifestyle choices of college students using data visualization and web technologies. The goal is to understand the impact of food choices on student health and academic performance.
 
@@ -24,18 +24,15 @@ This project analyzes the dietary habits, nutrition patterns, and lifestyle choi
 ## 📊 Dashboards & Story
 
 - **Interactive Dashboard 1: Dietary Habits and Preferences**  
-  [View Dashboard on Tableau Public](https://public.tableau.com/views/YourDashboard1LinkHere)
-
-- **Interactive Dashboard 2: Lifestyle Overview**  
-  [View Dashboard on Tableau Public](https://public.tableau.com/views/YourDashboard2LinkHere)
+  [View Dashboard on Tableau Public](https://public.tableau.com/app/profile/venkata.murali.krishna.nadimidoddi/viz/FoodChoicesProject/Dashboard1?publish=yes)
 
 - **Interactive Story: The Impact of Childhood Food Preferences on Adult Choices**  
-  [View Story on Tableau Public](https://public.tableau.com/views/YourStoryLinkHere)
+  [View Story on Tableau Public](https://public.tableau.com/app/profile/venkata.murali.krishna.nadimidoddi/viz/FoodChoicesProject/Story1?publish=yes)
 
 ## 🎥 Demo Video
 
 Watch the full project demo here:  
-👉 [Demo Video Link](https://your-demo-video-link-here)
+👉 [Demo Video Link](https://drive.google.com/file/d/1Z3CSoPj-dIvgIudSMfc8xhMClHraopRs/view)
 
-## 🗂️ Folder Structure
+
 
