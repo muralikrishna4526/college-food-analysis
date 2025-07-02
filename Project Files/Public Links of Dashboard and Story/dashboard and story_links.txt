@@ -1,0 +1,6 @@
+College Food Choices Case Study - Dashboard and Story Links
+
+Interactive Dashboard:
+https://public.tableau.com/app/profile/venkata.murali.krishna.nadimidoddi/viz/FoodChoicesProject/Dashboard1?publish=yes
+Interactive Story:
+https://public.tableau.com/app/profile/venkata.murali.krishna.nadimidoddi/viz/FoodChoicesProject/Story1?publish=yes
