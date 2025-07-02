@@ -1,3 +1,41 @@
-Title Of The Project : Comprehensive Analysis and Dietary Strategies with Tableau: A College Food Choices Case Study
+# 🍽️ College Food Choices Case Study
 
-This project analyses college students’ food choices to identify dietary patterns and propose strategies for healthier eating. Leveraging Tableau, the project visualizes insights from a dataset containing information on students’ meals, nutritional intake, and preferences.
+This project analyzes the dietary habits, nutrition patterns, and lifestyle choices of college students using data visualization and web technologies. The goal is to understand the impact of food choices on student health and academic performance.
+
+## 📌 Project Overview
+
+- Dataset: [College Food Choices Dataset (Kaggle)](https://www.kaggle.com/datasets/borapajo/food-choices)
+- Tools Used: Excel (for data cleaning), Tableau (for dashboards & stories), Flask (for web integration)
+- Key Deliverables:
+  - Cleaned dataset
+  - Interactive Tableau dashboards and story
+  - Flask-based web application to host the insights
+  - Final report summarizing findings
+  - Demo video explaining the project end-to-end
+
+## 🚀 Features
+
+✅ Cleaned and prepared dataset  
+✅ Dashboards showcasing GPA vs health habits, fruit and vegetable consumption trends, and exercise frequency  
+✅ Story combining dashboards into a guided narrative  
+✅ Flask UI with multiple pages (Home, About, Dashboards, Story, Insights)  
+✅ Demo video link  
+
+## 📊 Dashboards & Story
+
+- **Interactive Dashboard 1: Dietary Habits and Preferences**  
+  [View Dashboard on Tableau Public](https://public.tableau.com/views/YourDashboard1LinkHere)
+
+- **Interactive Dashboard 2: Lifestyle Overview**  
+  [View Dashboard on Tableau Public](https://public.tableau.com/views/YourDashboard2LinkHere)
+
+- **Interactive Story: The Impact of Childhood Food Preferences on Adult Choices**  
+  [View Story on Tableau Public](https://public.tableau.com/views/YourStoryLinkHere)
+
+## 🎥 Demo Video
+
+Watch the full project demo here:  
+👉 [Demo Video Link](https://your-demo-video-link-here)
+
+## 🗂️ Folder Structure
+
