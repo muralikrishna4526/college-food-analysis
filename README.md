@@ -23,7 +23,7 @@ This project analyzes the dietary habits, nutrition patterns, and lifestyle choi
 
 ## 📊 Dashboards & Story
 
-- **Interactive Dashboard 1: Dietary Habits and Preferences**  
+- **Interactive Dashboard 1: Lifestyle Overview**  
   [View Dashboard on Tableau Public](https://public.tableau.com/app/profile/venkata.murali.krishna.nadimidoddi/viz/FoodChoicesProject/Dashboard1?publish=yes)
 
 - **Interactive Story: The Impact of Childhood Food Preferences on Adult Choices**  
