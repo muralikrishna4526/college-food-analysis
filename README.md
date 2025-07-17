@@ -39,6 +39,7 @@ Explore the interactive visualizations developed for this project:
 
 - **Story: The Impact of Childhood Food Preferences on Adult Choices**  
   [📖 View Story on Tableau Public](https://public.tableau.com/app/profile/venkata.murali.krishna.nadimidoddi/viz/FoodChoicesProject/Story1?publish=yes)
+  
 
 Watch the full project demo here:  
 👉 [Demo Video Link](https://drive.google.com/file/d/1Z3CSoPj-dIvgIudSMfc8xhMClHraopRs/view)
