@@ -25,16 +25,16 @@ This project analyzes the dietary habits, nutrition patterns, and lifestyle choi
 
 Explore the interactive visualizations developed for this project:
 
-- **Dashboard 1: Dietary Habits Overview**  
+- **Dashboard 1: Lifestyle Overview**  
   [🔗 View on Tableau Public](https://public.tableau.com/app/profile/venkata.murali.krishna.nadimidoddi/viz/FoodChoicesProject/Dashboard1?publish=yes)
 
-- **Dashboard 2: Nutritional Patterns & Exercise**  
+- **Dashboard 2: Dietary Habits and Preferences**  
   [🔗 View on Tableau Public](https://public.tableau.com/app/profile/venkata.murali.krishna.nadimidoddi/viz/FoodChoicesProject/Dashboard2?publish=yes)
 
-- **Dashboard 3: Favorite Cuisines and Comfort Foods**  
+- **Dashboard 3: Health and Nutrition**  
   [🔗 View on Tableau Public](https://public.tableau.com/app/profile/venkata.murali.krishna.nadimidoddi/viz/FoodChoicesProject/Dashboard3?publish=yes)
 
-- **Dashboard 4: Fruit, Vegetable, and Vitamin Intake Trends**  
+- **Dashboard 4: Parental influence and Eating Out**  
   [🔗 View on Tableau Public](https://public.tableau.com/app/profile/venkata.murali.krishna.nadimidoddi/viz/FoodChoicesProject/Dashboard4?publish=yes)
 
 - **Story: The Impact of Childhood Food Preferences on Adult Choices**  
