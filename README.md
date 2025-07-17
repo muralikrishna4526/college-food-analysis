@@ -41,8 +41,9 @@ Explore the interactive visualizations developed for this project:
   [📖 View Story on Tableau Public](https://public.tableau.com/app/profile/venkata.murali.krishna.nadimidoddi/viz/FoodChoicesProject/Story1?publish=yes)
   
 
-Watch the full project demo here:  
-👉 [Demo Video Link](https://drive.google.com/file/d/1Z3CSoPj-dIvgIudSMfc8xhMClHraopRs/view)
+##📹 Demo Video
 
+Watch the full project demo here:  
+👉 [Click to Watch the Demo Video](https://drive.google.com/file/d/1v9N8vNCTLeHpce8STCX94sqiFW81EBLW/view?usp=sharing)
 
 
